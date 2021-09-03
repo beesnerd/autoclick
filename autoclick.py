@@ -19,5 +19,5 @@ if answer == 'Right':
             pyautogui.PAUSE = 0.01
             pyautogui.rightClick()
 
-
+# the higher the number is in for i in range, the more it clicks (the default 100 gives about 30 cps)
 
